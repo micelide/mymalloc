@@ -1,7 +1,7 @@
 #ifndef MYMALLOC_H
 #define MYMALLOC_H
 
-//comonly used values
+//commonly used values
 #define MAGICAL_NUMBER 2109999L //random key, long (4 bytes)
 #define FREE 0
 #define ALLOC 1
