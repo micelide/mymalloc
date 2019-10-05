@@ -18,10 +18,4 @@ static char myBlock[4096];
 void* mymalloc(int size, char *var1, size_t l1);
 void myfree(void* index, char *var2, size_t l2);
 
-//use for time 
-struct time{
-	long sec;
-	long ms;
-};
-
 #endif
